@@ -23,7 +23,7 @@ As a dedicated city traveler myself, I often come across the same questions when
     * Question 4.1: Is there an overrepresentation of certain neighborhoods for single- and multi-listing properties?
 
 ## File Description <a name="description"></a>
-There is one Jupyter notebook containing the code to answer the above questions. Markdown cells were used to help understand the different steps taken and the conclusions that can be drawn for each question. There are also 5 csv files included.
+There is one Jupyter notebook containing the code to answer the above questions. Markdown cells were used to help understand the different steps taken and the conclusions that can be drawn for each question. There are also 5 csv files included: calender2017.csv, calendar2018.csv and calendar2019.csv which contain pricing data per listing per day throughout one year; reviews2017.csv which contains reviews per listing; listings2017.csv which contains 95 different variables related to more than 3,500 listings on Airbnb in Boston.
 
 ## Results
 The main findings of the analysis have been published in a blog post [here](https://medium.com/@julia.nikulski/here-is-what-you-need-to-know-about-staying-in-boston-with-airbnb-57e81f5296ae).
